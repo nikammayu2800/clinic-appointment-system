@@ -34,7 +34,7 @@ A Python-based application designed to streamline clinic operations by managing 
 
 ## 📦 Installation
 - Clone the repository:
-  git clone https://github.com/yourusername/clinic-appointment-system.git
+  git clone https://github.com/nikammayu2800/clinic-appointment-system.git 
 - Navigate to the project directory:
   cd clinic-appointment-system
 - Set up the database:
